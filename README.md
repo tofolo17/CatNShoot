@@ -6,7 +6,7 @@
 
 My first participation in a Game Jam and first authorial game (not a good combo).
 
-CatNShoot is a platform shooter with a non-uniform but pleasant aesthetic. The movement is based on the games of [DaFluffyPotato](https://www.youtube.com/channel/UCYNrBrBOgTfHswcz2DdZQFA), one of the main game developers in the Pygame community.
+CatNShoot is a platform shooter with a non-uniform but pleasant aesthetic. The movement is based on the games of [DaFluffyPotato](https://www.youtube.com/channel/UCYNrBrBOgTfHswcz2DdZQFA), one of the main game developers in Pygame community.
 
 Some sprites and audios were made by me, while others are from the Internet. If such use violates any legal regulation, please contact me!
 
