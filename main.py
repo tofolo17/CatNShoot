@@ -4,7 +4,7 @@ from random import randint, choice
 
 from pygame import mixer
 
-from function import *
+from Functions import *
 
 os.environ['SDL_VIDEO_CENTERED'] = '1'  # Centering
 
@@ -31,14 +31,14 @@ chimney = pg.image.load('Images/block_9.png')
 antenna = pg.image.load('Images/block_10.png')
 
 # Dictionary that stores information about animations
-animation_database = {'idle': load_animation('Player Animations/idle', [5, 5, 5, 5]),
-                      'run': load_animation('Player Animations/run', [5, 5, 5, 5, 5, 5, 5, 5]),
-                      'jump': load_animation('Player Animations/jump', [5, 5]),
-                      'shoot': load_animation('Player Animations/shoot', [5, 5, 5, 5]),
-                      'walkshoot': load_animation('Player Animations/walkshoot', [5, 5, 5, 5, 5, 5, 5, 5]),
-                      'jumpshoot': load_animation('Player Animations/jumpshoot', [5, 5, 5, 5]),
-                      'superjump': load_animation('Player Animations/superjump', [5, 5, 5, 5]),
-                      'superjumpshoot': load_animation('Player Animations/superjumpshoot', [5, 5, 5, 5])}
+animation_database = {'idle': load_animation('Animations/idle', [5, 5, 5, 5]),
+                      'run': load_animation('Animations/run', [5, 5, 5, 5, 5, 5, 5, 5]),
+                      'jump': load_animation('Animations/jump', [5, 5]),
+                      'shoot': load_animation('Animations/shoot', [5, 5, 5, 5]),
+                      'walkshoot': load_animation('Animations/walkshoot', [5, 5, 5, 5, 5, 5, 5, 5]),
+                      'jumpshoot': load_animation('Animations/jumpshoot', [5, 5, 5, 5]),
+                      'superjump': load_animation('Animations/superjump', [5, 5, 5, 5]),
+                      'superjumpshoot': load_animation('Animations/superjumpshoot', [5, 5, 5, 5])}
 
 
 # Main loop
