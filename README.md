@@ -20,6 +20,6 @@ Minha primeira participação em um Game Jam e primeiro jogo autoral (combinaç�
 
 CatNShoot é um atirador de plataforma com uma estética não uniforme, mas agradável. O movimento é baseado nos jogos do [DaFluffyPotato](https://www.youtube.com/channel/UCYNrBrBOgTfHswcz2DdZQFA), um dos principais desenvolvedores da comunidade Pygame.
 
-Alguns sprites e áudios foram feitos por mim, enquanto outros são da Internet. Se tal uso violar qualquer regulamentação legal, entre em contato comigo!
+Alguns sprites e áudios foram feitos por mim, enquanto outros, são da Internet. Se tal uso violar qualquer regulamentação legal, entre em contato comigo!
 
-Não consegui terminar, mas é um protótipo funcional. Qualquer ajuda com otimização, lógica ou gramática é bem-vinda. 
+O jogo não foi finalizado, mas é um protótipo funcional. Qualquer ajuda com otimização, lógica ou gramática é bem-vinda. 
