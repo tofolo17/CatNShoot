@@ -2,7 +2,7 @@
  
 ## What will you find in this repository?
 
-### Prototype made for the "One Button Game Jam" of June 2020.
+### Prototype built for the "One Button Game Jam" of June 2020.
 
 My first participation in a Game Jam and first authorial game (not a good combo).
 
