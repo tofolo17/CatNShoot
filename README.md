@@ -1,25 +1,26 @@
-# CatNShoot
- 
-## What will you find in this repository?
-
-### Prototype built for the "One Button Game Jam" of June 2020.
-
-My first participation in a Game Jam and first authorial game (not a good combo).
-
-CatNShoot is a platform shooter with a non-uniform but pleasant aesthetic. The movement is based on the games of [DaFluffyPotato](https://www.youtube.com/channel/UCYNrBrBOgTfHswcz2DdZQFA), one of the main developers in Pygame community.
-
-Some sprites and audios were made by me, while others are from the Internet. If such use violates any legal regulation, please contact me!
-
-I couldn't finish it, but it's a functional prototype. Any help with optimization, logic or grammar is welcome.
+<div align="center">
+    <img src="Animations/gameplay.gif" width="600"/>
+</div>
+<br/>
 
 ## O que você encontrará neste repositório?
 
-### Protótipo feito para a "One Button Game Jam", em junho de 2020.
+Protótipo construído para a [One Button Game Jam](https://itch.io/jam/one-button-game) de junho de 2020. Minha primeira
+participação em um Game Jam e a primeira tentativa de jogo autoral.
 
-Minha primeira participação em um Game Jam e primeiro jogo autoral (combinação perigosa).
+CatNShoot é um shooter de plataforma com uma estética não uniforme, mas agradável. A base do movimento do jogo vem dos
+jogos e tutoriais do [DaFluffyPotato](https://www.youtube.com/c/DaFluffyPotato), o desenvolvedor central da comunidade
+Pygame. Alguns sprites e áudios são autorais, enquanto outros são de mídia free-to-use.
 
-CatNShoot é um atirador de plataforma com uma estética não uniforme, mas agradável. O movimento é baseado nos jogos do [DaFluffyPotato](https://www.youtube.com/channel/UCYNrBrBOgTfHswcz2DdZQFA), um dos principais desenvolvedores da comunidade Pygame.
+Infelizmente, o prazo não foi cumprido. Entretanto, o resultado é funcional e bonito.
 
-Alguns sprites e áudios foram feitos por mim, enquanto outros, são da Internet. Se tal uso violar qualquer regulamentação legal, entre em contato comigo!
+## What will you find in this repository?
 
-O jogo não foi finalizado, mas é um protótipo funcional. Qualquer ajuda com otimização, lógica ou gramática é bem-vinda. 
+Prototype built for the [One Button Game Jam](https://itch.io/jam/one-button-game) from June 2020. My first
+participation in a Game Jam and the first attempt at an authorial game.
+
+CatNShoot is a platform shooter with a non-uniform but pleasant aesthetic. The foundation of the game's movement comes
+from games and tutorials by [DaFluffyPotato](https://www.youtube.com/c/DaFluffyPotato), the core developer of the Pygame
+community. A few sprites and audios are authorial, while others are from free-to-use media.
+
+Unfortunately, the deadline was not met. However, the result is functional and beautiful.
